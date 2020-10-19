@@ -1,0 +1,17 @@
+{
+    "name": "thasim/transaction-cvs-api",
+    "description": "Transactions cvs data load and view",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Sone Thasi",
+            "email": "ethasi@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"TransactionPlugin\\": "./includes"}
+    }
+}
